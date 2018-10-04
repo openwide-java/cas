@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/apereo/cas).
+
+
 # Central Authentication Service (CAS)
 
 <http://www.jasig.org/cas>
